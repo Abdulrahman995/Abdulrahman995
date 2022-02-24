@@ -29,7 +29,7 @@ class splash extends StatelessWidget {
                               radius: 80,
                               backgroundColor: Colors.white,
                               child: Image.asset(
-                                'assets/bmi_gren.png',
+                                'assets/BMI.png',
                                 fit: BoxFit.cover,
                                 width: 150,
                                 height: 150,
