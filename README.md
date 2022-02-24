@@ -1,17 +1,14 @@
-# bmiapp
+# BMI Calculator
 
 BMI Calculator is app that allows to monitor BMI and percentage of fat in the body.
 
-## Getting Started
+![Capture2](https://user-images.githubusercontent.com/94105839/155450276-31f6410e-64bb-47bd-ae2e-2803666921f5.PNG)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Capture1](https://user-images.githubusercontent.com/94105839/155450316-524cc03a-a668-42a0-9604-7d486e314de9.PNG)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# BMI_Calculator" 
+
+
+![Capture3](https://user-images.githubusercontent.com/94105839/155450341-3f39671f-6362-4ef3-9e00-c12503470d38.PNG)
+
